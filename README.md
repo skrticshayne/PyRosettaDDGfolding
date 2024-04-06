@@ -6,7 +6,7 @@ Setup
 * Set up a virtual environment and install all necessary libraries from requirements.txt
 * [creating a virtual environment in Windows](docs/windows_venv.md)
 * [creating a virtual environment in MacOS](docs/macos_venv.md)
-Install Pyrosetta 
+* Install Pyrosetta 
 
 ```
 pip install pyrosetta-installer
