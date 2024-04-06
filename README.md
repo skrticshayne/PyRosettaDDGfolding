@@ -1,7 +1,7 @@
 # PyRosettaDDGfolding
 This Directory contains three Scripts used by the Escorcia Lab at Xavier University to predict the DDG upon mutation of a SNP mutation. These scripts were adapted from freely available PyRosetta Scripts. 
 
-#Setup 
+Setup 
 
 * Set up a virtual environment and install all necessary libraries from requirements.txt
 * [creating a virtual environment in Windows](docs/windows_venv.md)
