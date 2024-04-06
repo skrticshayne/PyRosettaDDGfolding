@@ -11,4 +11,4 @@ This script takes a cleaned PDB as Input and does a "FastRelax" Protocol on it (
 This script takes the cleaned and Relaxed PDB and an AA mutation position and 1 Letter Code of the variant AA.
 
 # Notes
-tTis script can easily be adapted for Mutagenesis Runs by adding all 20 AA in the Array of Variant AA's
+This script can easily be adapted for Mutagenesis Runs by adding all 20 AA in the Array of Variant AA's
