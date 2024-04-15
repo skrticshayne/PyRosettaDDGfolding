@@ -4,8 +4,8 @@ This Directory contains three Scripts used by the Escorcia Lab at Xavier Univers
 Setup 
 
 * Set up a virtual environment and install all necessary libraries from requirements.txt
-* [creating a virtual environment in Windows](docs/windows_venv.md)
-* [creating a virtual environment in MacOS](docs/macos_venv.md)
+* [creating a virtual environment in Windows](Docs/windows_venv.md)
+* [creating a virtual environment in MacOS](Docs/macos_venv.md)
 * Install Pyrosetta 
 
 ```
