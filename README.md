@@ -29,3 +29,6 @@ This script takes the cleaned and Relaxed PDB and an AA mutation position and 1 
 
 # Notes
 This script can easily be adapted for Mutagenesis Runs by adding all 20 AA in the Array of Variant AA's
+
+# Test Files
+Includes a PDB and a Mutation to ensure program runs.
